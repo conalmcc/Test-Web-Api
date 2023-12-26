@@ -1,0 +1,12 @@
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/bin/Release/net8.0/Domain.deps.json
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/bin/Release/net8.0/Domain.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/bin/Release/net8.0/Domain.pdb
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/Domain.csproj.AssemblyReference.cache
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/Domain.AssemblyInfo.cs
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/Domain.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/refint/Domain.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/Domain.pdb
+/Users/conal/Developer/Osx Projects/CleanArc1/Domain/obj/Release/net8.0/ref/Domain.dll

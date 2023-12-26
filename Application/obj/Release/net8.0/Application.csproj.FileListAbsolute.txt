@@ -1,0 +1,17 @@
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/bin/Release/net8.0/Application.deps.json
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/bin/Release/net8.0/Application.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/bin/Release/net8.0/Application.pdb
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/bin/Release/net8.0/Domain.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/bin/Release/net8.0/Infrastructure.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/bin/Release/net8.0/Infrastructure.pdb
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/bin/Release/net8.0/Domain.pdb
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.csproj.AssemblyReference.cache
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.AssemblyInfoInputs.cache
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.AssemblyInfo.cs
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.csproj.CopyComplete
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/refint/Application.dll
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/Application.pdb
+/Users/conal/Developer/Osx Projects/CleanArc1/Application/obj/Release/net8.0/ref/Application.dll

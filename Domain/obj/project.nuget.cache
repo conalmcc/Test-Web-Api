@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DbQMjMPmAnwrWENYtjMyreHiywkQqxBs/Ldiz5EJVdX0WLj6uRpqg9UXgM4x69VRGhYGFKJajfs9mS+cTRu0Q==",
+  "success": true,
+  "projectFilePath": "/Users/conal/Developer/Osx Projects/CleanArc1/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/conal/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
